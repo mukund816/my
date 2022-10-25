@@ -121,6 +121,7 @@ font-family: var(--secondary-font);
     font-family: var(--font-primary);
     padding: 12px;
     transition: 1s background step-end;
+    cursor: pointer;
 }
 .btn:hover{
     background: rgba(135, 207, 235, 0.43);
